@@ -103,7 +103,7 @@ const ClosingSection = () => {
 
         {/* Audio element - replace src with actual music file */}
         <audio ref={audioRef} loop preload="none">
-          <source src="src/assets/Banky_W_-_Made_For_You_tooXclusive.Com_.mp3" type="audio/mp3" />
+          <source src="/Banky_W_-_Made_For_You_tooXclusive.Com_.mp3" type="audio/mp3" />
         </audio>
       </div>
     </section>
