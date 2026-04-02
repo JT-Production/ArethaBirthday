@@ -20,62 +20,62 @@ const videos : VideoItem[] = [
   {
     id: 1,
     name: `Victoria`,
-    src: `src/assets/video (3).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775092074/PESS%20images/IMG_3021_2_umxodm.mp4`,
   },
   {
     id: 2,
     name: `Ngozi`,
-    src: `src/assets/video (5).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091966/PESS%20images/IMG_3019_umv44a.mp4`,
   },
   {
     id: 3,
     name: `Ruth`,
-    src: `src/assets/video (4).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091977/PESS%20images/IMG_3020_2_rq9zow.mp4`,
   },
   {
     id: 4,
     name: `Loretta`,
-    src: `src/assets/video (7).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091839/PESS%20images/IMG_3017_afymf6.mp4`,
   },
   {
     id: 5,
     name: `Oyinkan`,
-    src: `src/assets/video (2).MOV`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091843/PESS%20images/IMG_3010_dkqbot.mp4`,
   },
   {
     id: 6,
     name: `Subomi`,
-    src: `src/assets/video (1).MOV`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091838/PESS%20images/IMG_3011_xf9vpe.mp4`,
   },
   {
     id: 7,
     name: `Lara`,
-    src: `src/assets/video (1).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091840/PESS%20images/IMG_3012_tq9res.mp4`,
   },
   {
     id: 8,
     name: `Sewa`,
-    src: `src/assets/video (9).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091837/PESS%20images/IMG_3015_tjj5gh.mp4`,
   },
   {
     id: 9,
     name: `Anu`,
-    src: `src/assets/video (10).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091838/PESS%20images/IMG_3013_ll6rqz.mp4`,
   },
   {
     id: 10,
-    name: `Araoluwa`,
-    src: `src/assets/video (2).MP4`,
+    name: `Areoluwa`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091842/PESS%20images/IMG_3014_hzdtzo.mp4`,
   },
   {
     id: 11,
     name: `Precious`,
-    src: `src/assets/video (8).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091865/PESS%20images/IMG_3016_zvo0kn.mp4`,
   },
   {
     id: 12,
     name: `Feranmi`,
-    src: `src/assets/video (6).MP4`,
+    src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091836/PESS%20images/IMG_3018_msdcpc.mp4`,
   },
  
  
