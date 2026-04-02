@@ -34,7 +34,7 @@ const videos : VideoItem[] = [
     id: 3,
     name: `Ruth`,
     src: `https://res.cloudinary.com/dmvwjmy23/video/upload/v1775091977/PESS%20images/IMG_3020_2_rq9zow.mp4`,
-    thumbImg: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775094372/PESS%20images/Screenshot_2026-04-02_024105_h4yygc.png'
+    thumbImg: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775094360/PESS%20images/Screenshot_2026-04-02_024014_a3vsyd.png'
   },
   {
     id: 4,
