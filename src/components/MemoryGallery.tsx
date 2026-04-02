@@ -13,32 +13,32 @@ const photos = [
   
   {
      id: 2,
-  src: 'src/assets/photo (1).JPG',
+  src: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775093473/PESS%20images/IMG_1865_zwtzmo.jpg',
   caption: ``,
   },
   {
      id: 3,
-  src: 'src/assets/photo (4).JPG',
+  src: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775093475/PESS%20images/IMG_1092_xlnnc9.jpg',
   caption: ``,
   },
   {
      id: 4,
-  src: 'src/assets/photo (3).JPG',
+  src: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775093475/PESS%20images/IMG_1112_ikzihr.jpg',
   caption: ``,
   },
   {
      id: 1,
-  src: 'src/assets/photo (2).JPG',
+  src: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775093473/PESS%20images/IMG_1864_nvdncs.jpg',
   caption: ``,
   },
   {
      id: 5,
-  src: 'src/assets/photo (6).JPG',
+  src: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775093579/PESS%20images/IMG_1116_iivtkj.jpg',
   caption: ``,
   },
   {
      id: 6,
-  src: 'src/assets/photo (5).JPG',
+  src: 'https://res.cloudinary.com/dmvwjmy23/image/upload/v1775093507/PESS%20images/IMG_1114_rrejvd.jpg',
   caption: ``,
   },
 
