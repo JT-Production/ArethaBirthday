@@ -105,7 +105,7 @@ const VideoCard = ({ video }: { video: VideoItem }) => {
       viewport={{ once: true, margin: "-50px" }}
       transition={{ duration: 0.6 }}
       whileHover={{ scale: 1.02 }}
-      onClick={() => setPlaying(!playing)}
+      onClick={() => setPlaying(true)}
     >
       <div className="relative aspect-[4/5] overflow-hidden">
         {!playing ? (

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 
 const Sparkle = ({ delay, x, y }: { delay: number; x: number; y: number }) => (
   <motion.div
@@ -47,6 +47,11 @@ const ClosingSection = () => {
     { delay: 1.8, x: 90, y: 35 },
   ];
 
+    useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.volume = 0.3; // value between 0.0 and 1.0
+    }
+  }, []);
   return (
     <section className="relative py-32 md:py-48 px-4 overflow-hidden">
       {/* Sparkles */}
@@ -102,7 +107,7 @@ const ClosingSection = () => {
         </motion.button>
 
         {/* Audio element - replace src with actual music file */}
-        <audio ref={audioRef} loop preload="none">
+        <audio ref={audioRef} autoPlay loop preload="none">
           <source src="/Banky_W_-_Made_For_You_tooXclusive.Com_.mp3" type="audio/mp3" />
         </audio>
       </div>
